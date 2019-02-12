@@ -1,0 +1,18 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+.env - Copy.example
+/.buildpath
+/.settings
+/.project
+/.phpstorm.meta.php
+/_ide_helper.php
+/backups
+/logs
+/sessions
+/storage/fonts/*
+/tmp
